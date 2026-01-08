@@ -1,0 +1,37 @@
+{
+  "eventId": "hci-2025-2",
+  "eventName": "2025-2 인간컴퓨터상호작용",
+  "projects": [
+    {
+      "id": "project-001",
+      "title": "AI 기반 학습 보조 시스템",
+      "team": "Team Alpha",
+      "members": "김철수, 이영희, 박민준",
+      "date": "2025-12-15",
+      "description": "인공지능을 활용하여 학생들의 학습 효율을 높이는 대화형 학습 보조 시스템입니다.",
+      "thumbnailLocal": "media/hci-2025-2/project-001/thumbnail.jpg",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-001/thumbnail.jpg",
+      "posterLocal": "media/hci-2025-2/project-001/poster.pdf",
+      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-001/poster.pdf",
+      "videoLocal": "media/hci-2025-2/project-001/video.mp4",
+      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-001/video.mp4"
+    },
+    {
+      "id": "project-002",
+      "title": "시각장애인을 위한 내비게이션 앱",
+      "team": "Team Beta",
+      "members": "최지훈, 정수아",
+      "date": "2025-12-15",
+      "description": "음성 인식과 햅틱 피드백을 활용한 시각장애인 전용 내비게이션 모바일 애플리케이션입니다.",
+      "thumbnailLocal": "media/hci-2025-2/project-002/thumbnail.jpg",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-002/thumbnail.jpg",
+      "posterLocal": "media/hci-2025-2/project-002/poster.jpg",
+      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-002/poster.jpg",
+      "videoLocal": "media/hci-2025-2/project-002/video.mp4",
+      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-002/video.mp4"
+    },
+    {
+      
+    }
+  ]
+}

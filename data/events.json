@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "id": "course-based",
+      "name": "교과형",
+      "description": "학부 정규 수업을 통한 프로젝트 작품",
+      "color": "#00a9ce",
+      "events": [
+        {
+          "id": "hci-2025-2",
+          "name": "학부 인간컴퓨터 상호작용 수업",
+          "fullName": "2025-2 인간컴퓨터상호작용 발표자료",
+          "description": "학부 인간컴퓨터 상호작용 수업의 학생 프로젝트 발표자료",
+          "date": "2025년 2학기",
+          "projectCount": 5
+        },
+        {
+          "id": "ai-project2-2025-2",
+          "name": "학부 인공지능 프로젝트 2 졸업 프로젝트",
+          "fullName": "2025-2 인공지능 프로젝트 2 발표자료",
+          "description": "학부 인공지능 프로젝트 2 수업의 학생 졸업 프로젝트 발표자료",
+          "date": "2025년 2학기",
+          "projectCount": 8
+        },
+        {
+          "id": "hci-korea-2026",
+          "name": "HCI Korea 2026",
+          "fullName": "HCI Korea 2026 발표자료",
+          "description": "학부 인공지능 프로젝트 2 수업의 학생 졸업 프로젝트 발표자료",
+          "date": "2026년 상반기",
+          "projectCount": 8
+        }
+      ]
+    },
+    {
+      "id": "immersive",
+      "name": "몰입형",
+      "description": "집중 몰입 교육 프로그램을 통한 프로젝트 작품",
+      "color": "#6b4ce6",
+      "events": [
+        {
+          "id": "hci-korea-2026",
+          "name": "행사명 3",
+          "fullName": "HCI Korea 2026",
+          "description": "HCI Korea 2026 학술대회 발표 작품",
+          "date": "2026년 1월",
+          "projectCount": 3
+        },
+        {
+          "id": "summer-bootcamp-2025",
+          "name": "행사명 4",
+          "fullName": "2025 여름방학 몰입 부트캠프",
+          "description": "여름방학 집중 몰입 교육 프로그램 프로젝트",
+          "date": "2025년 여름",
+          "projectCount": 6
+        }
+      ]
+    }
+  ]
+}

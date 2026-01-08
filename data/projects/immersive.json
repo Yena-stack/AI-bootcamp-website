@@ -1,0 +1,36 @@
+{
+  "eventId": "immersive",
+  "eventName": "몰입형",
+  "projects": [
+    {
+      "id": "project-001",
+      "title": "차세대 UI/UX 디자인",
+      "team": "팀 델타",
+      "date": "2026-01-20",
+      "thumbnailLocal": "media/immersive/project-001/thumbnail.jpg",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-001/thumbnail.jpg",
+      "posterLocal": "media/immersive/project-001/poster.pdf",
+      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-001/poster.pdf",
+      "videoLocal": "media/immersive/project-001/video.mp4",
+      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-001/video.mp4",
+      "paperLocal": "media/immersive/project-001/paper.pdf",
+      "paper": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-001/paper.pdf",
+      "description": "HCI Korea 2026에서 발표된 차세대 사용자 인터페이스 디자인 연구입니다."
+    },
+    {
+      "id": "project-002",
+      "title": "VR 기반 교육 플랫폼",
+      "team": "팀 엡실론",
+      "date": "2026-01-20",
+      "thumbnailLocal": "media/immersive/project-002/thumbnail.jpg",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-002/thumbnail.jpg",
+      "posterLocal": "media/immersive/project-002/poster.pdf",
+      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-002/poster.pdf",
+      "videoLocal": "media/immersive/project-002/video.mp4",
+      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-002/video.mp4",
+      "paperLocal": "media/immersive/project-002/paper.pdf",
+      "paper": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-002/paper.pdf",
+      "description": "가상현실을 활용한 몰입형 학습 경험 플랫폼입니다."
+    }
+  ]
+}

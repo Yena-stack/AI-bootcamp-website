@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>프로젝트 목록 - AI 부트캠프</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">
+                <a href="index.html">AI 부트캠프 성과관리</a>
+            </h1>
+            <nav class="nav">
+                <a href="index.html" class="nav-link">홈</a>
+                <!-- 관리자 가이드 링크 제거 -->
+                <a href="https://aibootcamp.hanyang.ac.kr" class="nav-link">부트캠프 홈</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- Added event navigation tabs -->
+        <section class="event-nav-section">
+            <div class="container">
+                <div class="breadcrumb">
+                    <a href="index.html">홈</a>
+                    <span class="separator">/</span>
+                    <a href="#" id="categoryLink">카테고리</a>
+                    <span class="separator">/</span>
+                    <span id="eventName">행사명</span>
+                </div>
+                <div class="event-tabs" id="eventTabs">
+                    <!-- Event tabs will be loaded dynamically -->
+                </div>
+            </div>
+        </section>
+
+        <section class="projects-section">
+            <div class="container">
+                <h2 class="page-title" id="eventTitle">프로젝트 목록</h2>
+                <div class="projects-grid" id="projectsGrid">
+                    <!-- Projects will be loaded dynamically -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 산업AI 부트캠프 사업단. All Rights Reserved.</p>
+            <p>문의: aibootcamp@hanyang.ac.kr</p>
+        </div>
+    </footer>
+
+    <script src="js/projects.js"></script>
+</body>
+</html>

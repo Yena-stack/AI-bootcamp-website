@@ -1,0 +1,619 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* 한양대 AI 부트캠프 사이트의 색상 톤으로 변경 */
+  --color-primary: #0441A6;
+  --color-secondary: #064095;
+  --color-accent: #094FC1;
+  --color-bg: #ffffff;
+  --color-bg-alt: #f8f9fa;
+  --color-text: #333333;
+  --color-text-light: #666666;
+  --color-border: #e0e0e0;
+  --color-shadow: rgba(0, 0, 0, 0.08);
+  /* 한글 폰트 우선 적용 */
+  --font-sans: "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --transition: all 0.3s ease;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header */
+.header {
+  /* 화이트 헤더로 변경하고 하단 보더 추가 */
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--color-border);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  /* 로고 색상을 primary 색상으로 변경 */
+  color: var(--color-primary);
+}
+
+.logo a {
+  /* 링크 색상을 primary로 변경 */
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.nav {
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-link {
+  /* 네비게이션 링크 색상을 텍스트 색상으로 변경 */
+  color: var(--color-text);
+  text-decoration: none;
+  font-weight: 500;
+  transition: var(--transition);
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: var(--color-primary);
+}
+
+/* Hero Section */
+.hero {
+  /* 밝은 그라데이션으로 변경 */
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-accent) 100%);
+  color: white;
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.hero-description {
+  font-size: 1.25rem;
+  opacity: 0.9;
+}
+
+/* Events Section */
+.events-section {
+  padding: 4rem 0;
+  /* 밝은 배경색 추가 */
+  background-color: var(--color-bg-alt);
+}
+
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  /* 제목 색상을 텍스트 색상으로 변경 */
+  color: var(--color-text);
+}
+
+/* Categories Grid - renamed from events-grid for main page */
+.categories-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.category-card {
+  background: white;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: var(--transition);
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.category-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.category-card-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-accent) 100%);
+}
+
+.category-card-content {
+  padding: 1.5rem;
+}
+
+.category-card-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--color-text);
+}
+
+.category-card-description {
+  color: var(--color-text-light);
+  margin-bottom: 1rem;
+}
+
+.category-card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--color-text-light);
+  font-size: 0.875rem;
+}
+
+/* Events list page styles - for the intermediate page with event boxes */
+.page-header {
+  background-color: var(--color-bg-alt);
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.events-list-section {
+  padding: 4rem 0;
+  min-height: 60vh;
+}
+
+.events-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.event-box {
+  background: white;
+  border: 2px solid var(--color-text);
+  padding: 2rem;
+  text-decoration: none;
+  color: var(--color-text);
+  transition: var(--transition);
+  display: block;
+}
+
+.event-box:hover {
+  background-color: var(--color-bg-alt);
+  border-color: var(--color-primary);
+}
+
+.event-box-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--color-text);
+}
+
+.event-box-subtitle {
+  font-size: 1rem;
+  color: var(--color-text-light);
+}
+
+/* Event navigation tabs for projects page */
+.event-nav-section {
+  background-color: var(--color-bg-alt);
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.event-tabs {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+  overflow-x: auto;
+}
+
+.event-tab {
+  padding: 0.75rem 1.5rem;
+  background-color: white;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--color-text);
+  font-weight: 500;
+  transition: var(--transition);
+  white-space: nowrap;
+}
+
+.event-tab:hover {
+  background-color: var(--color-primary);
+  color: white;
+  border-color: var(--color-primary);
+}
+
+.event-tab.active {
+  background-color: var(--color-primary);
+  color: white;
+  border-color: var(--color-primary);
+}
+
+.events-grid {
+  display: grid;
+  /* Changed from auto-fill to 2 columns for exactly 2 cards */
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.event-card {
+  background: white;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: var(--transition);
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  /* 그림자 추가 */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.event-card:hover {
+  transform: translateY(-4px);
+  /* 호버 시 그림자 강화 */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.event-card-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  /* 이미지 배경 그라데이션 밝게 조정 */
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-accent) 100%);
+}
+
+.event-card-content {
+  padding: 1.5rem;
+}
+
+.event-card-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  /* 제목 색상을 텍스트 색상으로 변경 */
+  color: var(--color-text);
+}
+
+.event-card-description {
+  color: var(--color-text-light);
+  margin-bottom: 1rem;
+}
+
+.event-card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--color-text-light);
+  font-size: 0.875rem;
+}
+
+/* Projects Section */
+.breadcrumb-section {
+  background-color: var(--color-bg-alt);
+  padding: 1.5rem 0;
+  /* 하단 보더 추가 */
+  border-bottom: 1px solid var(--color-border);
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--color-text-light);
+}
+
+.breadcrumb a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.separator {
+  color: var(--color-border);
+}
+
+.projects-section {
+  padding: 4rem 0;
+}
+
+.page-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  /* 제목 색상을 텍스트 색상으로 변경 */
+  color: var(--color-text);
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.project-card {
+  background: white;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: var(--transition);
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  /* 그림자 추가 */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  /* 호버 시 그림자 강화 */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.project-thumbnail {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  background-color: var(--color-bg-alt);
+}
+
+.project-card-content {
+  padding: 1.5rem;
+}
+
+.project-card-title {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  /* 제목 색상을 텍스트 색상으로 변경 */
+  color: var(--color-text);
+}
+
+.project-card-team {
+  color: var(--color-text-light);
+  font-size: 0.875rem;
+}
+
+/* Project Detail */
+.project-detail-section {
+  padding: 4rem 0;
+  min-height: 60vh;
+}
+
+.project-detail {
+  background: white;
+  border-radius: 12px;
+  padding: 3rem;
+  /* 그림자 조정 */
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  border: 1px solid var(--color-border);
+}
+
+.project-header {
+  margin-bottom: 3rem;
+  text-align: center;
+  border-bottom: 2px solid var(--color-border);
+  padding-bottom: 2rem;
+}
+
+.project-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  /* 제목 색상을 텍스트 색상으로 변경 */
+  color: var(--color-text);
+}
+
+.project-meta {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  color: var(--color-text-light);
+  flex-wrap: wrap;
+}
+
+.project-meta-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.project-content {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.project-section {
+  width: 100%;
+}
+
+.project-section-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  /* 제목 색상을 primary로 변경 */
+  color: var(--color-primary);
+}
+
+.project-poster {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  display: block;
+  border-radius: 8px;
+  /* 그림자 조정 */
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--color-border);
+}
+
+.project-video {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  aspect-ratio: 16 / 9;
+  border-radius: 8px;
+  /* 그림자 조정 */
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--color-border);
+}
+
+.project-description {
+  font-size: 1.125rem;
+  line-height: 1.8;
+  color: var(--color-text);
+}
+
+.back-button {
+  display: inline-block;
+  margin-bottom: 2rem;
+  padding: 0.75rem 1.5rem;
+  /* 버튼 색상을 primary로 변경 */
+  background-color: var(--color-primary);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: var(--transition);
+  font-weight: 500;
+}
+
+.back-button:hover {
+  /* 호버 시 secondary 색상으로 변경 */
+  background-color: var(--color-secondary);
+}
+
+/* Footer */
+.footer {
+  /* 푸터 색상을 어두운 회색으로 변경 */
+  background-color: #2c3e50;
+  color: white;
+  padding: 3rem 0;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.footer p {
+  margin-bottom: 0.5rem;
+  opacity: 0.9;
+}
+
+/* Loading State */
+.loading {
+  text-align: center;
+  padding: 3rem;
+  color: var(--color-text-light);
+}
+
+.loading::after {
+  content: "...";
+  animation: dots 1.5s steps(4, end) infinite;
+}
+
+@keyframes dots {
+  0%,
+  20% {
+    content: ".";
+  }
+  40% {
+    content: "..";
+  }
+  60%,
+  100% {
+    content: "...";
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .hero-description {
+    font-size: 1rem;
+  }
+
+  .events-grid,
+  .projects-grid {
+    /* Single column on mobile */
+    grid-template-columns: 1fr;
+  }
+
+  .nav {
+    gap: 1rem;
+  }
+
+  .project-detail {
+    padding: 2rem 1.5rem;
+  }
+
+  .project-title {
+    font-size: 1.75rem;
+  }
+
+  .project-meta {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .categories-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .event-tabs {
+    gap: 0.5rem;
+  }
+
+  .event-tab {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .header .container {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .hero {
+    padding: 3rem 0;
+  }
+}
