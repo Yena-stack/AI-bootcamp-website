@@ -9,9 +9,9 @@
       "members": "Minseo Kim, Dong-jin Kim",
       "date": "2026-01-08",
       "description": " ",
-      "thumbnailLocal": "public/media/ai-project2-2025-2/project-001/thumbnail.jpg",
-      "posterLocal": "public/media/ai-project2-2025-2/project-001/poster-001.pdf",
-      "videoLocal": "public/media/ai-project2-2025-2/project-001/video.mp4"
+      "thumbnailLocal": "media/ai-project2-2025-2/project-001/thumbnail.jpg",
+      "posterLocal": "media/ai-project2-2025-2/project-001/poster-001.pdf",
+      "videoLocal": "media/ai-project2-2025-2/project-001/video.mp4"
     },
     {
       "id": "project-002",
@@ -21,8 +21,8 @@
       "date": "2026-01-08",
       "description": " ",
       "thumbnailLocal": "media/ai-project2-2025-2/project-002/thumbnail.jpg",
-      "posterLocal": "public/media/ai-project2-2025-2/project-002/poster-002.pdf",
-      "videoLocal": "public/media/ai-project2-2025-2/project-002/video.mp4"
+      "posterLocal": "media/ai-project2-2025-2/project-002/poster-002.pdf",
+      "videoLocal": "media/ai-project2-2025-2/project-002/video.mp4"
     },
     {
       "id": "project-003",
@@ -119,9 +119,9 @@
     "members": "Hyunji Jeong, Seowoo Cho, Yonghyun Kwon, Sungshin Kim",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-011/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-011/poster-011.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-011/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-011/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-011/poster-011.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-011/video.mp4"
   },
   {
     "id": "project-012",
@@ -130,9 +130,9 @@
     "members": "Baekho Jang, Jiwoo Seo, Prof. Sungshin Kim",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-012/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-012/poster-012.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-012/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-012/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-012/poster-012.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-012/video.mp4"
   },
   {
     "id": "project-013",
@@ -141,9 +141,9 @@
     "members": "Munkyeong Suh, Jiyun Seo, Sungshin Kim",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-013/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-013/poster-013.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-013/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-013/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-013/poster-013.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-013/video.mp4"
   },
   {
     "id": "project-014",
@@ -152,9 +152,9 @@
     "members": "Seonkwon Kim, and Byeongwoong Hwang, Hyunjoon Kim",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-014/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-014/poster-014.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-014/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-014/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-014/poster-014.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-014/video.mp4"
   },
   {
     "id": "project-015",
@@ -163,9 +163,9 @@
     "members": "Jeonghyun Kim, Dayoon Lee, Prof. Hyunjoon Kim",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-015/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-015/poster-015.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-015/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-015/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-015/poster-015.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-015/video.mp4"
   },
   {
     "id": "project-016",
@@ -174,9 +174,9 @@
     "members": "Yuchan Nam, Jeonghyun Kang",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-016/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-016/poster-016.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-016/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-016/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-016/poster-016.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-016/video.mp4"
   },
   {
     "id": "project-017",
@@ -185,9 +185,9 @@
     "members": "Seeun Lee, Igyeong Yoon, Hyunjoon Kim",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-017/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-017/poster-017.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-017/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-017/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-017/poster-017.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-017/video.mp4"
   },
   {
     "id": "project-018",
@@ -196,9 +196,9 @@
     "members": "Jihong Jeong, and Junryul Han, Prof. Hyunjoon Kim",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-018/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-018/poster-018.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-018/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-018/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-018/poster-018.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-018/video.mp4"
   },
   {
     "id": "project-019",
@@ -207,9 +207,9 @@
     "members": "Alif Azizi Bin Mohd Nizam, Nur Lydia Natasha Binti Mohamad Issyam, Prof. Kim Hyung Sook",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-019/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-019/poster-019.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-019/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-019/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-019/poster-019.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-019/video.mp4"
   },
   {
     "id": "project-020",
@@ -218,9 +218,9 @@
     "members": "Yun Juchan, Kim Donghyeun, Prof. Kim Hyung Sook",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-020/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-020/poster-020.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-020/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-020/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-020/poster-020.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-020/video.mp4"
   },
   {
     "id": "project-021",
@@ -229,9 +229,9 @@
     "members": "Jibin Hwang, Minseo Kang, Youngtae Noh",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-021/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-021/poster-021.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-021/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-021/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-021/poster-021.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-021/video.mp4"
   },
   {
     "id": "project-022",
@@ -240,9 +240,9 @@
     "members": "Amzar, Mahima Chaudhary, Supervisor: Prof. Youngtae Noh, Mentor: Yonggeon Lee",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-022/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-022/poster-022.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-022/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-022/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-022/poster-022.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-022/video.mp4"
   },
   {
     "id": "project-023",
@@ -251,9 +251,9 @@
     "members": "Malak Zriouli, Yashu Shukla, Noh Youngtae",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-023/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-023/poster-023.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-023/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-023/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-023/poster-023.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-023/video.mp4"
   },
   {
     "id": "project-024",
@@ -262,9 +262,9 @@
     "members": "Heonjun Lee, and Seoyoung Ko, and Youngtae Noh",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-024/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-024/poster-024.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-024/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-024/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-024/poster-024.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-024/video.mp4"
   },
   {
     "id": "project-025",
@@ -273,9 +273,9 @@
     "members": "Hosik Hwang*, Dohoon Kim*, Sungyong Baik",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-025/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-025/poster-025.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-025/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-025/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-025/poster-025.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-025/video.mp4"
   },
   {
     "id": "project-026",
@@ -284,9 +284,9 @@
     "members": "Dain Kim, Jinseo Kim, and Sungyong Baik",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-026/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-026/poster-026.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-026/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-026/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-026/poster-026.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-026/video.mp4"
   },
   {
     "id": "project-027",
@@ -295,9 +295,9 @@
     "members": "Junyeong Ahn*, Seojin Yoon*, Sunyoung Baik",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-027/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-027/poster-027.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-027/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-027/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-027/poster-027.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-027/video.mp4"
   },
   {
     "id": "project-028",
@@ -306,9 +306,9 @@
     "members": "Alexa Koeck, Prof. Sungyoung Baik",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-028/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-028/poster-028.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-028/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-028/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-028/poster-028.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-028/video.mp4"
   },
   {
     "id": "project-029",
@@ -317,9 +317,9 @@
     "members": "Dohyeon Kim, Sungyong Baik",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-029/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-029/poster-029.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-029/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-029/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-029/poster-029.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-029/video.mp4"
   },
   {
     "id": "project-30",
@@ -328,9 +328,9 @@
     "members": "Minseo Kim, Hyungwook Yim",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-030/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-030/poster-030.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-030/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-030/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-030/poster-030.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-030/video.mp4"
   },
   {
     "id": "project-031",
@@ -339,9 +339,9 @@
     "members": "Hyunsu Jung, Inhwa Oh, Hyungwook Yim",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-031/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-031/poster-031.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-031/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-031/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-031/poster-031.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-031/video.mp4"
   },
   {
     "id": "project-032",
@@ -350,9 +350,9 @@
     "members": "Donghyeon Lee, Kyungchan Cho and Hyungwook Yim",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-032/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-032/poster-032.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-032/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-032/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-032/poster-032.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-032/video.mp4"
   },
   {
     "id": "project-033",
@@ -361,9 +361,9 @@
     "members": "Sangryeol Jeong, Nayeon Park, Kyungsik Han",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-033/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-033/poster-033.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-033/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-033/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-033/poster-033.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-033/video.mp4"
   },
   {
     "id": "project-034",
@@ -372,9 +372,9 @@
     "members": "Jiyeon Kang, Soohyoun Park and Kyungsik Han",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-034/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-034/poster-034.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-034/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-034/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-034/poster-034.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-034/video.mp4"
   },
   {
     "id": "project-035",
@@ -383,9 +383,9 @@
     "members": "Beejin Son, Sujin Park, and Kyungsik Han",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-035/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-035/poster-035.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-035/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-035/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-035/poster-035.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-035/video.mp4"
   },
   {
     "id": "project-036",
@@ -394,9 +394,9 @@
     "members": "Nur Raudhah binti Mohd Radzif, Adam Muhaimin Bin Mohd Rizal, Professor Kyungsik Han",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-036/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-036/poster-036.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-036/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-036/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-036/poster-036.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-036/video.mp4"
   },
   {
     "id": "project-037",
@@ -405,9 +405,9 @@
     "members": "Aylin Fathi, Juwon Shin, Kyungsik Han",
     "date": "2026-01-08",
     "description": " ",
-    "thumbnailLocal": "public/media/ai-project2-2025-2/project-037/thumbnail.jpg",
-    "posterLocal": "public/media/ai-project2-2025-2/project-037/poster-037.pdf",
-    "videoLocal": "public/media/ai-project2-2025-2/project-037/video.mp4"
+    "thumbnailLocal": "media/ai-project2-2025-2/project-037/thumbnail.jpg",
+    "posterLocal": "media/ai-project2-2025-2/project-037/poster-037.pdf",
+    "videoLocal": "media/ai-project2-2025-2/project-037/video.mp4"
   }
   ]
 }

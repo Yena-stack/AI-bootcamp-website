@@ -2,36 +2,159 @@
   "eventId": "hci-2025-2",
   "eventName": "2025-2 인간컴퓨터상호작용",
   "projects": [
-    {
-      "id": "project-001",
-      "title": "AI 기반 학습 보조 시스템",
-      "team": "Team Alpha",
-      "members": "김철수, 이영희, 박민준",
-      "date": "2025-12-15",
-      "description": "인공지능을 활용하여 학생들의 학습 효율을 높이는 대화형 학습 보조 시스템입니다.",
-      "thumbnailLocal": "media/hci-2025-2/project-001/thumbnail.jpg",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-001/thumbnail.jpg",
-      "posterLocal": "media/hci-2025-2/project-001/poster.pdf",
-      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-001/poster.pdf",
-      "videoLocal": "media/hci-2025-2/project-001/video.mp4",
-      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-001/video.mp4"
-    },
-    {
-      "id": "project-002",
-      "title": "시각장애인을 위한 내비게이션 앱",
-      "team": "Team Beta",
-      "members": "최지훈, 정수아",
-      "date": "2025-12-15",
-      "description": "음성 인식과 햅틱 피드백을 활용한 시각장애인 전용 내비게이션 모바일 애플리케이션입니다.",
-      "thumbnailLocal": "media/hci-2025-2/project-002/thumbnail.jpg",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-002/thumbnail.jpg",
-      "posterLocal": "media/hci-2025-2/project-002/poster.jpg",
-      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-002/poster.jpg",
-      "videoLocal": "media/hci-2025-2/project-002/video.mp4",
-      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-002/video.mp4"
-    },
-    {
-      
-    }
-  ]
+  {
+    "id": "project-001",
+    "title": "Mood to Music",
+    "team": " ",
+    "members": "Demoro Nathaniel, Johansson Magnus, Lam Henrik, Nagle Peyton, Whanhee Cho, Zuelli Tobias",
+    "date": " ",
+    "description": "Mood to Music addresses the need for technology that can understand emotions from natural language and deliver customized playlists immediately, while prioritizing maximum results with minimal user effort through simple controls. Finding a song that fits a specific activity or subtle emotion often involves a cumbersome manual process , especially when users start from a feeling rather than a concrete track or artist.",
+    "thumbnailLocal": "media/hci-2025-2/Group-001/thumbnail.JPG",
+    "posterLocal": "media/hci-2025-2/Group-001/Group1_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-001/Group1_Final_Video.mp4"
+  },
+  {
+    "id": "project-002",
+    "title": "ToDoc: RAG-Based LLM Web Service for Parenting Support “AI Care for Little One”",
+    "team": " ",
+    "members": "Jaejun Kim, Taewoo Kim, Uijae Ryu, Woojin Lee, Hyeondong Lee",
+    "date": " ",
+    "description": "We proposed RAG-based LLM web service bridging Personalization + Reliability + Interaction",
+    "thumbnailLocal": "media/hci-2025-2/Group-002/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-002/Group2_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-002/Group2_Final_Video.mp4"
+  },
+  {
+    "id": "project-003",
+    "title": "Personalized Gift recommendation Sevice Presently",
+    "team": " ",
+    "members": "SeungMin Yoo, HyunWoong Jang, SangYun Lee, SeungJun Kim, YeJin Won",
+    "date": " ",
+    "description": "Gift Recommedation: Personalized recommendation based on multi & dynamic Cyper queries and Graph RAG. Optimizing the recommendation: Users can interact with LLM using natural language based on Text-to-Cyhper query awaring context. Group gifting: Users can gift together by adding friend and select the recipient.Send Nudge: Users can send an alert to get information what recipient want by catetories. ",
+    "thumbnailLocal": "media/hci-2025-2/Group-003/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-003/Group3_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-003/Group3_Final_Video.mp4"
+  },
+  {
+    "id": "project-004",
+    "title": "LLM Based Cooking Assistant System",
+    "team": " ",
+    "members": "Dongki Kim, Gyucheol Sin, Junha Jang, Seokjun Jo",
+    "date": " ",
+    "description": "Optimal Output with Minimal Input: automate input (receipt OCR & Audio Chatbot), Personalize Experience (Generative AI), Bridge the Gap (Universal Interface)",
+    "thumbnailLocal": "media/hci-2025-2/Group-004/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-004/Group4_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-004/Group4_Final_Video.mp4"
+  },
+  {
+    "id": "project-005",
+    "title": "K-Beauty Personal Shopper",
+    "team": " ",
+    "members": "Koeck Alexa Charlotte, Korneva Anna, Chaerin Kim, Nayeon Park, Jihyeon Seo",
+    "date": " ",
+    "description": "Goals: Reduces information overload by filtering. Removing language barrier by bridging English interfaces with Korean language data. Delivers trustworthy, tailored aligned with individual user preferences",
+    "thumbnailLocal": "media/hci-2025-2/Group-005/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-005/Group5_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-005/Group5_Final_Video.mp4"
+  },
+  {
+    "id": "project-006",
+    "title": "Palette to Style: AI Personal Colour Analysis",
+    "team": " ",
+    "members": "Ainul Maziah Binti Zaidi, Dounia Feltane, Nurin Zulaikha Binti Azwan, Nur Irdina Danisha Binti Zohairen, Polina Tsoi",
+    "date": " ",
+    "description": "Choosing flattering colours is difficult for many users. Wrong colours affect confidence and self-expression. Professional colour analysis is expensive and inaccessible. Existing tools lack interaction and user control",
+    "thumbnailLocal": "media/hci-2025-2/Group-006/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-006/Group6_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-006/Group6_Final_Video.mp4"
+  },
+  {
+    "id": "project-007",
+    "title": "Swell-Fashion Recommendation Platform with AI-Virtual Fitting",
+    "team": " ",
+    "members": "Dong Heon LEE, Ji Chan Yoon, Yeong Uk Jang, Yu Jin Jung, Na Yeon Kim",
+    "date": " ",
+    "description": "We propose Swell, a fashion recommendation platform combining personalized recommendations with AI-based virtual try-on. User studies show improved satisfaction, diversity, and overall UX in online fashion shopping.",
+    "thumbnailLocal": "media/hci-2025-2/Group-007/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-007/Group7_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-007/Group7_Final_Video.mp4"
+  },
+  {
+    "id": "project-008",
+    "title": "GPT-4b: Giving Practical Technology for Business Network",
+    "team": " ",
+    "members": "Chanhyeong Park, Munho Ji, Taeho Lee, Taehwan Lee, Yeonju An",
+    "date": " ",
+    "description": "We proposed a business human network management system integrating business card management and gift recommendations. Both quantitative and qualitative results demonstrate that our system can support business relationships.",
+    "thumbnailLocal": "media/hci-2025-2/Group-008/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-008/Group8_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-008/Group8_Final_Video.mp4"
+  },
+  {
+    "id": "project-009",
+    "title": "Majorly: University Major and Career Recommendation System",
+    "team": " ",
+    "members": "Balqis Md Uslim, Muhammad Syahrul Aiman Muhd Syahrudin, Nur Ain Salsabil Mat Zaid, Nurnisa Humaira MohdIsa, Tyrik Hardley",
+    "date": " ",
+    "description": "AI powered university major and career path recommendation using user’s input through scenario-based aptitude questions, along with list of universities and scholarships related to the major.",
+    "thumbnailLocal": "media/hci-2025-2/Group-009/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-009/Group9_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-009/Group9_Final_Video.mp4"
+  },
+  {
+    "id": "project-010",
+    "title": "IT-Da: From Interaction to Data",
+    "team": " ",
+    "members": "Kim Nayoung, You Hwanhee, Park Seoyoung, Lee Yeonsu, Lee Junghun",
+    "date": " ",
+    "description": "Why is texting so exhausting? We spend more energy ‘guessing’ the intent than ‘sharing’ the message.",
+    "thumbnailLocal": "media/hci-2025-2/Group-010/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-010/Group10_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-010/Group10_Final_Video.mp4"
+  },
+  {
+    "id": "project-011",
+    "title": "Seoulution",
+    "team": " ",
+    "members": "Lily Cao, Armand Mareine, Jessica Andry, Amina Lahraoui, Jessica Lily Moore, Jeremy Ngo",
+    "date": " ",
+    "description": "All-in-one support for international students adapting to Seoul",
+    "thumbnailLocal": "media/hci-2025-2/Group-011/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-011/Group11_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-011/Group11_Final_Video.mp4"
+  },
+  {
+    "id": "project-012",
+    "title": "Health Care Assistant",
+    "team": " ",
+    "members": "Namhoon Kim, Junyoung Kim, Hyunryeo Baek, Seungha Lee",
+    "date": " ",
+    "description": "Many users struggle to start and sustain exercise when working out alone. Common issues include uncertainty in workout planning, lack of real-time feedback and limited access to professional guidance. These challenges arise from insufficient system-level support rather than a lack of user motivation.",
+    "thumbnailLocal": "media/hci-2025-2/Group-012/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-012/Group12_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-012/Group12_Final_Video.mp4"
+  },
+  {
+    "id": "project-013",
+    "title": "AI Assisted Study Planner",
+    "team": " ",
+    "members": "Jinsoo Kim, Eunsun Yu, Junhwa Mun",
+    "date": " ",
+    "description": "This project presents an AI-powered learning support system that integrates PDF summarization, automatic quiz generation, adaptive question selection, and D-day–based study planning. The system extracts core concepts from textbook PDFs, generates quizzes using a GPT-based model, and adjusts difficulty based on user accuracy. It also produces a multi-pass study schedule aligned with upcoming exam dates. Together, these features create a continuous learning cycle that enhances study efficiency and supports learner engagement.",
+    "thumbnailLocal": "media/hci-2025-2/Group-013/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-013/Group13_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-013/Group13_Final_Video.mp4"
+  },
+  {
+    "id": "project-014",
+    "title": "FinGuide AI: LLM-based AI Financial Assistant",
+    "team": " ",
+    "members": "Seungbin Kwon, Woojin Kim, Junsu Kim, Juhyeon Jung",
+    "date": " ",
+    "description": "This project implements a finAI prototype that transforms novice investors’ confusion into a structured “learn–act–reflect” loop, integrating the principles of personalization, trust, and habit formation. The platform supports onboarding- and micro-survey–based personalization, news summarization with an AI mentor, loss-free simulated trading, and behavior correction through transaction logging and weekly reports. In addition, user surveys revealed high expectations for fundamental investment features, leading us to identify enhanced portfolio visualization and notification mechanisms as key directions for future improvements. Future work will focus on strengthening trust and usability across diverse user groups. This includes refining lightweight, safety-oriented models for risk-sensitive interactions, expanding long-term persona adaptation, and exploring greater LLM specialization through role-specific agents while evaluating how different levels of AI transparency affect user comfort in financial decision-making.",
+    "thumbnailLocal": "media/hci-2025-2/Group-014/thumbnail.jpg",
+    "posterLocal": "media/hci-2025-2/Group-014/Group14_Final_Poster.pdf",
+    "videoLocal": "media/hci-2025-2/Group-014/Group14_Final_Video.mp4"
+  }
+]
 }

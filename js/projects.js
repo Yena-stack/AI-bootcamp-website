@@ -96,7 +96,7 @@ function createProjectCard(project, categoryId, eventId) {
         <img src="${thumbnailSrc}" alt="${project.title}" class="project-thumbnail" onerror="this.src='https://via.placeholder.com/280x200?text=No+Image'">
         <div class="project-card-content">
             <h3 class="project-card-title">${project.title}</h3>
-            <p class="project-card-team">${project.team || "팀명 미정"}</p>
+            <p class="project-card-team">${project.members || "멤버 미정"}</p>
         </div>
     `
 

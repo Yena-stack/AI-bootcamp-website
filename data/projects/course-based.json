@@ -3,43 +3,10 @@
   "eventName": "교과형",
   "projects": [
     {
-      "id": "project-001",
-      "title": "AI 기반 학습 도우미",
-      "team": "팀 알파",
-      "date": "2025-06-15",
-      "thumbnailLocal": "media/course-based/project-001/thumbnail.jpg",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/course-based/project-001/thumbnail.jpg",
-      "posterLocal": "media/course-based/project-001/poster.pdf",
-      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/course-based/project-001/poster.pdf",
-      "videoLocal": "media/course-based/project-001/video.mp4",
-      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/course-based/project-001/video.mp4",
-      "description": "인공지능을 활용한 개인 맞춤형 학습 도우미 시스템입니다."
     },
     {
-      "id": "project-002",
-      "title": "스마트 헬스케어 모니터링",
-      "team": "팀 베타",
-      "date": "2025-06-15",
-      "thumbnailLocal": "media/course-based/project-002/thumbnail.jpg",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/course-based/project-002/thumbnail.jpg",
-      "posterLocal": "media/course-based/project-002/poster.pdf",
-      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/course-based/project-002/poster.pdf",
-      "videoLocal": "media/course-based/project-002/video.mp4",
-      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/course-based/project-002/video.mp4",
-      "description": "실시간 건강 데이터 분석 및 모니터링 시스템입니다."
     },
     {
-      "id": "project-003",
-      "title": "음성 기반 감정 인식",
-      "team": "팀 감마",
-      "date": "2025-06-15",
-      "thumbnailLocal": "media/course-based/project-003/thumbnail.jpg",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/course-based/project-003/thumbnail.jpg",
-      "posterLocal": "media/course-based/project-003/poster.pdf",
-      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/course-based/project-003/poster.pdf",
-      "videoLocal": "media/course-based/project-003/video.mp4",
-      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/course-based/project-003/video.mp4",
-      "description": "음성 신호 분석을 통한 감정 인식 및 분류 시스템입니다."
     }
   ]
 }

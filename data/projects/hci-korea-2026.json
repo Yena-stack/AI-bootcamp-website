@@ -3,22 +3,6 @@
   "eventName": "HCI Korea 2026",
   "projects": [
     {
-    },
-    {
-      "id": "paper-002",
-      "title": "노인을 위한 음성 기반 스마트홈 시스템",
-      "team": "한양대학교 HCI Lab",
-      "members": "박서준, 최지민",
-      "date": "2026-01-15",
-      "description": "노인 사용자의 접근성을 고려한 음성 인식 기반 스마트홈 제어 시스템 개발 연구입니다.",
-      "thumbnailLocal": "media/hci-korea-2026/paper-002/thumbnail.jpg",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-002/thumbnail.jpg",
-      "posterLocal": "media/hci-korea-2026/paper-002/poster.jpg",
-      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-002/poster.jpg",
-      "paperLocal": "media/hci-korea-2026/paper-002/paper.pdf",
-      "paper": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-002/paper.pdf",
-      "videoLocal": "media/hci-korea-2026/paper-002/video.mp4",
-      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-002/video.mp4"
     }
   ]
 }

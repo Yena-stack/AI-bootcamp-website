@@ -195,24 +195,51 @@ body {
 
 .event-box {
   background: white;
-  border: 2px solid var(--color-text);
-  padding: 2rem;
+  border: 2px solid var(--color-border);
+  border-radius: 16px;
+  padding: 2.5rem;
   text-decoration: none;
   color: var(--color-text);
-  transition: var(--transition);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   display: block;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  position: relative;
+  overflow: hidden;
+}
+
+.event-box::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 4px;
+  background: linear-gradient(180deg, var(--color-primary) 0%, var(--color-accent) 100%);
+  transform: scaleY(0);
+  transition: transform 0.3s ease;
 }
 
 .event-box:hover {
-  background-color: var(--color-bg-alt);
+  background-color: #fafbfc;
   border-color: var(--color-primary);
+  box-shadow: 0 8px 24px rgba(4, 65, 166, 0.15);
+  transform: translateY(-4px);
+}
+
+.event-box:hover::before {
+  transform: scaleY(1);
 }
 
 .event-box-title {
   font-size: 1.75rem;
   font-weight: 700;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
   color: var(--color-text);
+  transition: color 0.3s ease;
+}
+
+.event-box:hover .event-box-title {
+  color: var(--color-primary);
 }
 
 .event-box-subtitle {

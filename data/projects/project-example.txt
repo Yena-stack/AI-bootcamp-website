@@ -1,0 +1,113 @@
+{
+  "eventId": "immersive",
+  "eventName": "몰입형",
+  "projects": [
+    {
+      "id": "project-001",
+      "title": "차세대 UI/UX 디자인",
+      "team": "팀 델타",
+      "date": "2026-01-20",
+      "thumbnailLocal": "media/immersive/project-001/thumbnail.jpg",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-001/thumbnail.jpg",
+      "posterLocal": "media/immersive/project-001/poster.pdf",
+      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-001/poster.pdf",
+      "videoLocal": "media/immersive/project-001/video.mp4",
+      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-001/video.mp4",
+      "paperLocal": "media/immersive/project-001/paper.pdf",
+      "paper": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-001/paper.pdf",
+      "description": "HCI Korea 2026에서 발표된 차세대 사용자 인터페이스 디자인 연구입니다."
+    },
+    {
+      "id": "project-002",
+      "title": "VR 기반 교육 플랫폼",
+      "team": "팀 엡실론",
+      "date": "2026-01-20",
+      "thumbnailLocal": "media/immersive/project-002/thumbnail.jpg",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-002/thumbnail.jpg",
+      "posterLocal": "media/immersive/project-002/poster.pdf",
+      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-002/poster.pdf",
+      "videoLocal": "media/immersive/project-002/video.mp4",
+      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-002/video.mp4",
+      "paperLocal": "media/immersive/project-002/paper.pdf",
+      "paper": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/immersive/project-002/paper.pdf",
+      "description": "가상현실을 활용한 몰입형 학습 경험 플랫폼입니다."
+    }
+  ]
+}
+======================
+{
+  "eventId": "hci-2025-2",
+  "eventName": "2025-2 인간컴퓨터상호작용",
+  "projects": [
+    {
+      "id": "project-001",
+      "title": "AI 기반 학습 보조 시스템",
+      "team": "Team Alpha",
+      "members": "김철수, 이영희, 박민준",
+      "date": "2025-12-15",
+      "description": "인공지능을 활용하여 학생들의 학습 효율을 높이는 대화형 학습 보조 시스템입니다.",
+      "thumbnailLocal": "media/hci-2025-2/project-001/thumbnail.jpg",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-001/thumbnail.jpg",
+      "posterLocal": "media/hci-2025-2/project-001/poster.pdf",
+      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-001/poster.pdf",
+      "videoLocal": "media/hci-2025-2/project-001/video.mp4",
+      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-001/video.mp4"
+    },
+    {
+      "id": "project-002",
+      "title": "시각장애인을 위한 내비게이션 앱",
+      "team": "Team Beta",
+      "members": "최지훈, 정수아",
+      "date": "2025-12-15",
+      "description": "음성 인식과 햅틱 피드백을 활용한 시각장애인 전용 내비게이션 모바일 애플리케이션입니다.",
+      "thumbnailLocal": "media/hci-2025-2/project-002/thumbnail.jpg",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-002/thumbnail.jpg",
+      "posterLocal": "media/hci-2025-2/project-002/poster.jpg",
+      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-002/poster.jpg",
+      "videoLocal": "media/hci-2025-2/project-002/video.mp4",
+      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-2025-2/project-002/video.mp4"
+    },
+    {
+      
+    }
+  ]
+}
+======================
+{
+  "eventId": "hci-korea-2026",
+  "eventName": "HCI Korea 2026",
+  "projects": [
+    {
+      "id": "paper-001",
+      "title": "VR 환경에서의 사용자 경험 연구",
+      "team": "한양대학교 AI연구실",
+      "members": "홍길동, 김영수, 이민지",
+      "date": "2026-01-15",
+      "description": "가상현실(VR) 환경에서 사용자 경험을 향상시키기 위한 인터랙션 디자인 연구입니다.",
+      "thumbnailLocal": "media/hci-korea-2026/paper-001/thumbnail.jpg",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-001/thumbnail.jpg",
+      "posterLocal": "media/hci-korea-2026/paper-001/poster.pdf",
+      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-001/poster.pdf",
+      "paperLocal": "media/hci-korea-2026/paper-001/paper.pdf",
+      "paper": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-001/paper.pdf",
+      "videoLocal": "media/hci-korea-2026/paper-001/video.mp4",
+      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-001/video.mp4"
+    },
+    {
+      "id": "paper-002",
+      "title": "노인을 위한 음성 기반 스마트홈 시스템",
+      "team": "한양대학교 HCI Lab",
+      "members": "박서준, 최지민",
+      "date": "2026-01-15",
+      "description": "노인 사용자의 접근성을 고려한 음성 인식 기반 스마트홈 제어 시스템 개발 연구입니다.",
+      "thumbnailLocal": "media/hci-korea-2026/paper-002/thumbnail.jpg",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-002/thumbnail.jpg",
+      "posterLocal": "media/hci-korea-2026/paper-002/poster.jpg",
+      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-002/poster.jpg",
+      "paperLocal": "media/hci-korea-2026/paper-002/paper.pdf",
+      "paper": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-002/paper.pdf",
+      "videoLocal": "media/hci-korea-2026/paper-002/video.mp4",
+      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-002/video.mp4"
+    }
+  ]
+}
