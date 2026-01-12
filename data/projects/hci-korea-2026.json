@@ -3,20 +3,6 @@
   "eventName": "HCI Korea 2026",
   "projects": [
     {
-      "id": "paper-001",
-      "title": "VR 환경에서의 사용자 경험 연구",
-      "team": "한양대학교 AI연구실",
-      "members": "홍길동, 김영수, 이민지",
-      "date": "2026-01-15",
-      "description": "가상현실(VR) 환경에서 사용자 경험을 향상시키기 위한 인터랙션 디자인 연구입니다.",
-      "thumbnailLocal": "media/hci-korea-2026/paper-001/thumbnail.jpg",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-001/thumbnail.jpg",
-      "posterLocal": "media/hci-korea-2026/paper-001/poster.pdf",
-      "poster": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-001/poster.pdf",
-      "paperLocal": "media/hci-korea-2026/paper-001/paper.pdf",
-      "paper": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-001/paper.pdf",
-      "videoLocal": "media/hci-korea-2026/paper-001/video.mp4",
-      "video": "https://s3.ap-northeast-2.amazonaws.com/aibootcamp.hanyang.ac.kr/media/hci-korea-2026/paper-001/video.mp4"
     },
     {
       "id": "paper-002",
