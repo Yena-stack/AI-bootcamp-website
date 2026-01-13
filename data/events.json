@@ -12,7 +12,7 @@
           "fullName": "2025-2 인공지능 프로젝트 2 발표자료",
           "description": "학부 인공지능 프로젝트 2 수업의 학생 졸업 프로젝트 발표자료",
           "date": "2025년 2학기",
-          "projectCount": 8
+          "projectCount": 37
         },
         {
           "id": "hci-2025-2",
@@ -20,7 +20,7 @@
           "fullName": "2025-2 인간컴퓨터상호작용 발표자료",
           "description": "학부 인간컴퓨터 상호작용 수업의 학생 프로젝트 발표자료",
           "date": "2025년 2학기",
-          "projectCount": 5
+          "projectCount": 14
         },
         {
           "id": "hci-korea-2026",
@@ -28,7 +28,7 @@
           "fullName": "HCI Korea 2026 발표자료",
           "description": "학부 인공지능 프로젝트 2 수업의 학생 졸업 프로젝트 발표자료",
           "date": "2026년 상반기",
-          "projectCount": 8
+          "projectCount": 0
         }
       ]
     },
@@ -44,7 +44,7 @@
           "fullName": "N/A",
           "description": "N/A",
           "date": "N/A",
-          "projectCount": 8
+          "projectCount": 0
         },
         {
           "id": "to-be-assigned",
@@ -52,7 +52,7 @@
           "fullName": "N/A",
           "description": "N/A",
           "date": "N/A",
-          "projectCount": 8
+          "projectCount": 0
         }
       ]
     }
